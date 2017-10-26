@@ -1,0 +1,32 @@
+body{
+	font-family:calibri;
+}
+
+main{
+	margin:5em 0em;
+}
+
+h4{
+    color:#FFF;
+}
+
+.scroll{
+    overflow:auto;
+    height:420px;
+}
+
+.menu-text{
+	font-size:21px;
+}
+
+.height{
+    height:500px;
+}
+
+.float-right{
+    float: right;
+}
+
+footer{
+    margin-top: 5em;
+}

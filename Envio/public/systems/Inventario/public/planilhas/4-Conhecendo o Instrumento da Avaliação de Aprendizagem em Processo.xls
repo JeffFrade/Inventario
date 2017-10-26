@@ -1,0 +1,16 @@
+<style>
+    .topo {
+    background-color: #6495ED;
+        font-weight: bold;
+    }
+
+    table, td {
+    border:1px solid black;
+        text-align: center;
+    }
+    table {
+    border-collapse:collapse;
+        font-family: calibri;
+        font-size: 11pt;
+    }
+</style><table><tr><th class="topo">PATRIMÔNIO</th><th class="topo">NÚMERO DE SÉRIE</th><th class="topo">ITEM</th><th class="topo">MARCA</th><th class="topo">MODELO</th><th class="topo">RESPONSÁVEL</th></tr><tr><td style=background-color:#009900>-</td><td style=background-color:#009900>PVBD2A6001458</td><td style=background-color:#009900>Switch de rede</td><td style=background-color:#009900>D-LINK</td><td style=background-color:#009900>DES-3028</td><td style=background-color:#009900>Lucas</td></tr><tr><td style=>16079</td><td style=>HC210738054278</td><td style=>TV LCD 32 polegadas</td><td style=>PHILLIPS</td><td style=>32PFL5332/78</td><td style=>Lucas</td></tr></table>

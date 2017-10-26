@@ -1,0 +1,99 @@
+body{
+	font-family:calibri;
+}
+
+h4{
+    color:#FFF;
+}
+
+main {
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+
+textarea {
+    resize: none;
+}
+
+img{
+    max-width:250px;
+    max-height:200px;
+    width:auto;
+    height:auto;
+    margin-bottom:15px;
+}
+
+.menu-text{
+	font-size:21px;
+}
+
+.bottom{
+    margin-bottom:15px;
+}
+
+.success{
+    background-color:#5cb85c;
+}
+
+.danger {
+    background-color: #d9534f;
+}
+
+.preto{
+    color:#000;
+}
+
+.aumentar{
+    width:65%;
+	height:1000px !important;
+}
+
+.submenu{
+    font-size:19px;
+}
+
+.preto{
+    color:#000;
+}
+
+.float-right{
+    float:right;
+    margin-right: 15px;
+}
+
+.label-font{
+    font-size:17px !important;
+}
+
+.icone{
+    font-size:20px;
+}
+
+.logo {
+    height:50px;
+}
+
+.margin-top{
+    margin-top: 20px;
+}
+
+.cinza {
+    background-color: #CDC9C9;
+}
+
+.selecionado {
+    background-color: #FFDAB9;
+}
+
+.dash {
+    background-color: #436EEE;
+}
+
+.branco {
+    background-color: #FFF;
+}
+
+#tabelaConsulta, #tabelaSala, #tabelaExterno, #tabelaEventos, #tabelaSaida, #tabelaDivergencias, #tabelaDeposito, #tabelaSolicitados{
+    height: 350px;
+    overflow:auto !important;
+}

@@ -1,0 +1,20 @@
+{
+    "name":"Sistema Monitoramento",
+    "require":{
+        "php":">=5"
+    },
+    "authors":[
+        {
+            "name":"Jefferson Frade",
+            "email":"jefferrson.frade@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "InvClasses\\":"vendor/Classes/"
+        }
+    },
+    "config":{
+        "secure-http":false
+    }
+}
